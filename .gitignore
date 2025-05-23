@@ -1,0 +1,50 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyInstaller
+*.spec
+
+# VS Code
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Logs and misc
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Test coverage
+htmlcov/
+.coverage
+.tox/
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Pycharm
+.idea/
+
+# pytest
+.cache/
